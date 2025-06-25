@@ -1,5 +1,3 @@
-
-text/plain hoki.txt ( ASCII text, with CRLF line terminators )
 JPDEWA
 SEMARJITU
 ROG777
