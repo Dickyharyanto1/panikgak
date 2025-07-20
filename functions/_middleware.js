@@ -89,7 +89,7 @@ export async function onRequest(context) {
       }
       
       // Create canonical URL
-      const canonicalOrigin = 'https://https://adhresa.ac.id'; // Replace with your actual domain
+      const canonicalOrigin = 'https://adhresa.ac.id'; // Replace with your actual domain
       const canonicalUrl = `${canonicalOrigin}/${urlFormattedSite}/`;
       
       console.log('Generated canonical URL:', canonicalUrl);
